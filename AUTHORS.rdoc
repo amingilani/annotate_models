@@ -8,6 +8,7 @@
 
 With help from:
 
+- Amin Shah Gilani - http://github.com/amingilani
 - Jack Danger - http://github.com/JackDanger
 - Michael Bumann - http://github.com/bumi
 - Henrik Nyh - http://github.com/henrik
